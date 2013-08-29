@@ -1,0 +1,11 @@
+LIBRARY PMPDLL INITGLOBAL 
+DESCRIPTION 'PMpause, by Ewen McNeill <ewen@naos.co.nz>'
+
+DATA SINGLE SHARED
+
+EXPORTS
+   PMPauseGetCount
+   PMPauseClearCount
+   PMPauseInit
+   PMPauseKill
+

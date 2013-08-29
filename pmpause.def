@@ -1,0 +1,3 @@
+NAME pmpause WINDOWAPI
+DESCRIPTION 'PMPause, by Ewen McNeill <ewen@naos.co.nz>'
+STACKSIZE 32768
